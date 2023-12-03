@@ -12,6 +12,7 @@ class _ArticlesRemoteRetrofitDataSource
     implements ArticlesRemoteRetrofitDataSource {
   _ArticlesRemoteRetrofitDataSource(
     this._dio, {
+    // ignore: unused_element
     this.baseUrl,
   });
 

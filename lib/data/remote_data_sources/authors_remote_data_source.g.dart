@@ -12,6 +12,7 @@ class _AuthorsRemoteRetrofitDataSource
     implements AuthorsRemoteRetrofitDataSource {
   _AuthorsRemoteRetrofitDataSource(
     this._dio, {
+    // ignore: unused_element
     this.baseUrl,
   });
 
